@@ -1,0 +1,3 @@
+/Users/leitner/Library/CloudStorage/OneDrive-FHTechnikumWien/WS 2022/Prozedurale Sprachen Labor/zt3/cmake-build-debug/CMakeFiles/zt3.dir
+/Users/leitner/Library/CloudStorage/OneDrive-FHTechnikumWien/WS 2022/Prozedurale Sprachen Labor/zt3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leitner/Library/CloudStorage/OneDrive-FHTechnikumWien/WS 2022/Prozedurale Sprachen Labor/zt3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
